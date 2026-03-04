@@ -13,9 +13,9 @@ The system is divided into three core "brains" and an interface:
 2. **The Recommendation Engine:** A weighted scoring algorithm that ranks products based on user match (40%), regional popularity (30%), active events (20%), and discounts (10%).
 3. **The Demand Predictor:** A trained Random Forest Regression model that forecasts 7-day product demand based on seasonal trends, discounts, and event flags.
 4. **The Insight Generator:** Integration with a local LLM (Ollama running Gemma 2B) to generate human-readable explanations for the recommendations.
-```
-## Project Structure
 
+## Project Structure
+```
 sports_ai_system/
 ├── data/                       # Raw CSV datasets (Products, Sales, Users, Events)
 ├── notebooks/                  
