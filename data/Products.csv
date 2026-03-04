@@ -1,0 +1,26 @@
+product_id,name,category,sport,price,brand,skill_level,indoor_outdoor
+P001,SS Premium Cricket Bat,Bat,Cricket,8500,SS,Intermediate,Outdoor
+P002,Kookaburra Pro Bat,Bat,Cricket,12000,Kookaburra,Advanced,Outdoor
+P003,SG Tennis Ball Pack,Balls,Cricket,450,SG,Beginner,Outdoor
+P004,Nike Football Studs,Shoes,Football,6500,Nike,Intermediate,Outdoor
+P005,Adidas Predator Boots,Shoes,Football,9800,Adidas,Advanced,Outdoor
+P006,Puma Training Football,Balls,Football,1200,Puma,Beginner,Outdoor
+P007,Yonex Astrox Racket,Racket,Badminton,7200,Yonex,Advanced,Indoor
+P008,Li-Ning Smash Racket,Racket,Badminton,3500,Li-Ning,Intermediate,Indoor
+P009,Cosco Badminton Shuttle,Shuttle,Badminton,900,Cosco,Beginner,Indoor
+P010,Pro Gym Dumbbell 10kg,Gym Equipment,Gym,2500,ProFit,Beginner,Indoor
+P011,Pro Gym Dumbbell 20kg,Gym Equipment,Gym,4800,ProFit,Intermediate,Indoor
+P012,Treadmill X200,Gym Equipment,Gym,45000,FitLife,Advanced,Indoor
+P013,India Cricket Jersey,Jersey,Cricket,1500,Nike,All,Outdoor
+P014,Manchester Football Jersey,Jersey,Football,2200,Adidas,All,Outdoor
+P015,Badminton Kit Combo,Kit,Badminton,5000,Yonex,Intermediate,Indoor
+P016,Cricket Helmet Pro,Helmet,Cricket,3200,SG,Intermediate,Outdoor
+P017,Football Shin Guard,Accessory,Football,800,Nike,Beginner,Outdoor
+P018,Gym Yoga Mat,Accessory,Gym,1200,FitLife,All,Indoor
+P019,Skipping Rope Pro,Accessory,Gym,600,ProFit,Beginner,Indoor
+P020,Cricket Gloves Elite,Gloves,Cricket,2100,SS,Advanced,Outdoor
+P021,Football Goalkeeper Gloves,Gloves,Football,1900,Puma,Intermediate,Outdoor
+P022,Resistance Bands Set,Accessory,Gym,1400,FitLife,Beginner,Indoor
+P023,Kids Cricket Bat,Bat,Cricket,1800,SG,Beginner,Outdoor
+P024,Table Tennis Paddle,Racket,Table Tennis,2200,Stiga,Intermediate,Indoor
+P025,Table Tennis Balls Pack,Balls,Table Tennis,500,Stiga,Beginner,Indoor

@@ -1,0 +1,17 @@
+# Data Manipulation & Core Logic
+pandas
+numpy
+
+# Machine Learning & Forecasting
+scikit-learn
+xgboost
+
+# Web Application / Dashboard
+streamlit
+
+# Model Training & Exploration
+jupyter
+notebook
+
+# LLM Integration (for local insights)
+ollama

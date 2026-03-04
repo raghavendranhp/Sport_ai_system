@@ -1,0 +1,16 @@
+user_id,age,region,favorite_sport,skill_level
+U001,16,Hyderabad,Cricket,Beginner
+U002,28,Mumbai,Gym,Intermediate
+U003,32,Delhi,Football,Advanced
+U004,21,Chennai,Badminton,Intermediate
+U005,35,London,Football,Advanced
+U006,19,Bangalore,Cricket,Intermediate
+U007,40,Mumbai,Gym,Beginner
+U008,24,Hyderabad,Badminton,Advanced
+U009,30,Delhi,Cricket,Advanced
+U010,27,London,Gym,Intermediate
+U011,18,Chennai,Football,Beginner
+U012,29,Bangalore,Table Tennis,Intermediate
+U013,33,Mumbai,Cricket,Advanced
+U014,22,Hyderabad,Gym,Beginner
+U015,26,Delhi,Badminton,Intermediate
