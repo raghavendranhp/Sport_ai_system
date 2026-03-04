@@ -15,7 +15,7 @@ The system is divided into three core "brains" and an interface:
 4. **The Insight Generator:** Integration with a local LLM (Ollama running Gemma 2B) to generate human-readable explanations for the recommendations.
 
 ## Project Structure
-```
+
 sports_ai_system/
 ├── data/                       # Raw CSV datasets (Products, Sales, Users, Events)
 ├── notebooks/                  
@@ -31,7 +31,6 @@ sports_ai_system/
 ├── app.py                      # Main Streamlit dashboard application
 ├── live_app_demo.gif           # Demonstration of the working dashboard
 └── requirements.txt            # Python dependencies
-```
 
 ## Prerequisites
 
