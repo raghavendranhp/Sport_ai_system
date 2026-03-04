@@ -35,7 +35,7 @@ sports_ai_system/
 ## Prerequisites
 
 Before running the system, ensure you have the following installed:
-* **Python 3.9+**
+* **Python 3.10**
 * **Ollama** installed locally (for AI insights)
 
 You must also pull the specific Gemma model for the insight generator:
