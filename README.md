@@ -1,4 +1,3 @@
-
 # Sports Goods Intelligent Recommendation & Demand Insight System
 
 This repository contains a modular AI system built to provide smart product recommendations, regional insights, and short-term demand forecasting for a sports goods marketplace. It utilizes structured reasoning (Seshat AI concepts) combined with Machine Learning and a local LLM for natural language insights.
