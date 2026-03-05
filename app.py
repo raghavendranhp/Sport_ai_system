@@ -100,6 +100,7 @@ with tab2:
         #displaying the result in a large, bold metric widget
         st.metric(label="expected units sold per product", value=f"{predicted_qty} units")
 
+
 # --- tab 3: knowledge graph ---
 with tab3:
     st.header("seshat-style reasoning logic")
